@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "LPKtDemo"
 include ':app'
+include ':lib_network'
